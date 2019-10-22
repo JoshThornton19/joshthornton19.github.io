@@ -31,6 +31,13 @@ section, summary, time, mark, audio, video {
 
 }
 
+iframe {
+	display: block;
+	margin: auto;
+}
+
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
