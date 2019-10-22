@@ -34,7 +34,7 @@ section, summary, time, mark, audio, video {
 iframe {
 	display: block;
 	margin: auto;
-	padding-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 
