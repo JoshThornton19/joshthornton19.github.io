@@ -1043,7 +1043,8 @@ footer, header, hgroup, menu, nav, section {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		min-width: 8rem;
+		min-width: 10rem;
+		
 	}
 
 	input[type="submit"]:hover,
