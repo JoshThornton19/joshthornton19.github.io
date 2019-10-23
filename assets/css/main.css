@@ -1677,3 +1677,8 @@ footer, header, hgroup, menu, nav, section {
 	.backButton {
 		border-color: rgba(120,120,255,0.5);
 	}
+	.dlButton {
+		margin-bottom: 2rem;
+		margin-right: 1rem;
+		
+	}
