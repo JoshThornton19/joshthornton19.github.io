@@ -35,7 +35,7 @@ iframe {
 	display: block;
 	margin: auto;
 	margin-bottom: 2rem;
-	
+
 }
 
 
@@ -1672,4 +1672,8 @@ footer, header, hgroup, menu, nav, section {
 
 	body.is-preload #footer {
 		opacity: 0;
+	}
+
+	.backButton {
+		border-color: yellow;
 	}
