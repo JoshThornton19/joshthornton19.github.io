@@ -1680,5 +1680,8 @@ footer, header, hgroup, menu, nav, section {
 	.dlButton {
 		margin-bottom: 2rem;
 		margin-right: 1rem;
-		
+
 	}
+.mainNavButton {
+	margin-bottom: 5px;
+}
