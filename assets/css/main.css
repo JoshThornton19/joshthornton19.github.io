@@ -1675,5 +1675,5 @@ footer, header, hgroup, menu, nav, section {
 	}
 
 	.backButton {
-		border-color: yellow;
+		border-color: rgba(120,120,255,0.5);
 	}
