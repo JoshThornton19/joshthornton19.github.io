@@ -1186,9 +1186,7 @@ footer, header, hgroup, menu, nav, section {
 		background-image: url("../../images/bg2.png")!important;
 	}
 
-	.enableBG3:after {
-		background-image: url("../../images/bg3.png")!important;
-	}
+	
 
 	body.is-article-visible #bg:after {
 		-moz-transform: scale(1.0825);
