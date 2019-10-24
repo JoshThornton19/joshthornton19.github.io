@@ -1,2 +1,2 @@
-# joshthornton19.github.io
+# JoshDThornton.github.io
 This is Josh Thornton's portfolio website.
