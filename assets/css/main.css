@@ -1676,6 +1676,8 @@ footer, header, hgroup, menu, nav, section {
 
 	.backButton {
 		border-color: rgba(120,120,255,0.5);
+		float:left;
+		margin-bottom: 2rem;
 	}
 	.dlButton {
 		margin-bottom: 2rem;
@@ -1683,5 +1685,10 @@ footer, header, hgroup, menu, nav, section {
 
 	}
 .mainNavButton {
-	margin-bottom: 5px;
+	margin-bottom: 3px;
+}
+
+#work {
+	margin:0 auto;
+	text-align: center;
 }
