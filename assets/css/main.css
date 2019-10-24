@@ -167,7 +167,7 @@ footer, header, hgroup, menu, nav, section {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 5px rgba(255, 255, 255, 0.5);
+		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		color: inherit;
 	}
@@ -1675,9 +1675,9 @@ footer, header, hgroup, menu, nav, section {
 	}
 
 	.backButton {
-		border-color: rgba(120,120,255,0.5);
+
 		float:left;
-		margin-bottom: 2rem;
+		margin-bottom: 1.7rem;
 	}
 	.dlButton {
 		margin-bottom: 2rem;
