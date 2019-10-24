@@ -1184,10 +1184,10 @@ footer, header, hgroup, menu, nav, section {
 		-webkit-transform: scale(1.0825);
 		-ms-transform: scale(1.0825);
 		transform: scale(1.0825);
-		-moz-filter: blur(0.2rem);
-		-webkit-filter: blur(0.2rem);
-		-ms-filter: blur(0.2rem);
-		filter: blur(0.2rem);
+		-moz-filter: blur(0.4rem);
+		-webkit-filter: blur(0.4rem);
+		-ms-filter: blur(0.4rem);
+		filter: blur(0.4rem);
 	}
 
 	body.is-preload #bg:before {
