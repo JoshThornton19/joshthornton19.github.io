@@ -1186,6 +1186,11 @@ footer, header, hgroup, menu, nav, section {
 		background-image: url("../../images/bg2.png")!important;
 	}
 
+	.enableBG3:after {
+		background-image: url("../../images/bg3.png")!important;
+	}
+
+
 
 
 	body.is-article-visible #bg:after {
@@ -1277,7 +1282,7 @@ footer, header, hgroup, menu, nav, section {
 		-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-		
+
 		max-width: 100%;
 		text-align: center;
 	}
