@@ -1190,6 +1190,9 @@ footer, header, hgroup, menu, nav, section {
 		background-image: url("../../images/bg3.png")!important;
 	}
 
+	.enableBG4:after {
+		background-image: url("../../images/bg4.png")!important;
+	}
 
 
 
