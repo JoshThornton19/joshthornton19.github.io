@@ -1194,6 +1194,10 @@ footer, header, hgroup, menu, nav, section {
 		background-image: url("../../images/bg4.png")!important;
 	}
 
+	.enableBG5:after {
+		background-image: url("../../images/bg5.png")!important;
+	}
+
 
 
 	body.is-article-visible #bg:after {
